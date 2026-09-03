@@ -78,14 +78,14 @@ técnicas en una entrevista.
 
 <br>
 
-## Proyectos públicos
+## Código público
 
-| Proyecto | Qué es | Stack |
-| :--- | :--- | :--- |
-| **[colmado-saas](https://github.com/kitomc/colmado-saas)** | Plataforma SaaS multiinquilino — backend serverless, consola de administración y cliente móvil multiplataforma | `Convex` `Dart/Flutter` `TypeScript` |
-| **[strategy-portfolio-architect](https://github.com/kitomc/strategy-portfolio-architect)** | Motor de construcción de carteras con asignación basada en restricciones y comparación de escenarios | `TypeScript` |
-| **[V2-EA-Analizador-Quant](https://github.com/kitomc/V2-EA-Analizador-Quant)** | Panel de análisis cuantitativo para evaluar el rendimiento de estrategias algorítmicas | `JavaScript` `HTML` |
-| **[ea-studio-downloader](https://github.com/kitomc/ea-studio-downloader)** | Pipeline de datos desatendido con soporte multinavegador, manejo de reintentos e integración con el CLI de GitHub | `PowerShell` |
+### [colmado-saas](https://github.com/kitomc/colmado-saas) — Plataforma SaaS multiinquilino
+
+`Convex` · `Dart/Flutter` · `TypeScript`
+
+Backend serverless en Convex, consola de administración web y cliente móvil
+multiplataforma en Flutter, sobre un modelo de datos multiinquilino.
 
 <br>
 
