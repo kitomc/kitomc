@@ -4,11 +4,12 @@
 
 # Francis Alexander Gonzalez Almonte
 
-**Desarrollador Full Stack · Ingeniería asistida por agentes LLM**
+**Desarrollador Full Stack · SDD · DDD · POO · Ingeniería asistida por agentes LLM**
 
-Construyo software en producción con agentes LLM en el flujo de trabajo:
-especificación primero, cubierto por pruebas y con una arquitectura
-que sobrevive al siguiente cambio.
+Construyo ERPs, plataformas SaaS e integraciones con IA en producción.
+Trabajo con **SDD · DDD · POO** y desarrollo **únicamente con asistencia de
+agentes LLM** por eficiencia y tiempo: especificación primero, dominio en el
+centro y pruebas que verifican.
 
 `TypeScript` · `React` · `Convex` · `Supabase` · `Flutter` · `Docker`
 
@@ -36,15 +37,31 @@ documentación sobre la que un ingeniero puede actuar.
 
 ## Cómo trabajo
 
-Esto cambia el resultado más que cualquier elección de framework.
+Desarrollo exclusivamente con asistencia de IA (Claude Code, MCP, agentes
+especializados) por eficiencia y tiempo. La metodología es lo que hace que ese
+código sea mantenible:
 
-| Práctica | Qué significa en mi trabajo |
+| Metodología | Qué significa en mi trabajo |
 | :--- | :--- |
-| **Especificación antes del código** | Los requisitos y criterios de aceptación se escriben primero. Ninguna implementación arranca desde un ticket vago. |
-| **Arquitectura limpia / hexagonal** | La lógica de dominio permanece independiente de los frameworks, así cambiar de infraestructura nunca reescribe las reglas de negocio. |
-| **Desarrollo guiado por pruebas** | El comportamiento se describe con una prueba que falla antes de que exista el código. La cobertura es una consecuencia, no el objetivo. |
-| **Asistido por agentes, dirigido por humano** | Los agentes LLM ejecutan bajo dirección y verificación explícitas. El ingeniero es dueño de las decisiones; el agente, del tecleo. |
-| **Diseño atómico y contenedor-presentación** | Interfaz dividida por responsabilidad, para que los componentes sigan siendo componibles y comprobables de forma aislada. |
+| **SDD — Spec-Driven Development** | Cada cambio arranca con una especificación versionada en el repositorio: requisitos, escenarios y criterios de aceptación. El código se verifica contra la spec, no contra la memoria. |
+| **DDD — Domain-Driven Design** | El modelo de dominio manda: entidades, agregados e invariantes con un lenguaje ubicuo compartido con el cliente. La infraestructura queda fuera de las reglas de negocio (arquitectura hexagonal). |
+| **POO — Programación Orientada a Objetos** | Responsabilidades claras, principios SOLID y contratos explícitos entre módulos, para que el sistema sobreviva al siguiente cambio sin reescrituras. |
+| **Desarrollo asistido por IA** | Los agentes LLM ejecutan bajo especificación y pruebas. El ingeniero es dueño de la arquitectura y las decisiones; el agente, del tecleo. |
+| **Pruebas que describen comportamiento** | Playwright y Vitest. La cobertura es una consecuencia, no el objetivo. |
+
+<br>
+
+## Proyectos
+
+| Proyecto | Qué es | Mi rol | Stack |
+| :--- | :--- | :--- | :--- |
+| **FHG Distribuidora — ERP** | Gestión para distribuidora mayorista: ventas a cuotas, cartera, cobros, cuadres de caja, inventario ABC, comisiones y reportería. 440+ commits. | Diseño y desarrollo completo | React, Supabase, PL/pgSQL, Playwright |
+| **[Sandov Structure](https://structure.sandov.ai)** | SaaS de cálculo estructural: motor FEM 3D, verificación ACI 318 / AISC 360, sísmico dinámico, BIM/IFC, asesor IA y reportes PDF trazables. | Diseño y desarrollo completo | React, Convex, Cloudflare Workers, LLM |
+| **[EstimaPro / Estimator AI](https://estimapro-rd.pages.dev)** | Conecta el presupuesto del ingeniero con ferreterías: escáner de planos con IA, cuantificación y cotización. | Diseño y desarrollo completo | React, Convex, Cloudflare Pages, visión IA |
+| **[CookSnap](https://cooksnap-4kh.pages.dev)** | App de cocina con IA: recetas a partir de ingredientes, auth, i18n, mobile-first. | Diseño y desarrollo completo | React, Convex, Cloudflare Pages, LLM |
+| **[Colegio Ciudad Real](https://cocire.edu.do)** | Sitio institucional de admisiones + ERP escolar interno. | Diseño y desarrollo completo | React, Supabase, Cloudflare |
+| **Spatium** | Sitio corporativo de oficinas/coworking y ERP de operación interna (Boosty Digital / Spatium). | Integrador sénior y desarrollo | React, Node.js, PostgreSQL, automatización |
+| **[Planix](https://planixapp.com.do)** | Portal transaccional de compras empresariales en RD con integraciones a Oracle NetSuite, SAP, Odoo, Exactus e Infor. | Desarrollo y mantenimiento como parte del equipo | Angular, Node.js, integraciones ERP |
 
 <br>
 
