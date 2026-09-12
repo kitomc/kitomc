@@ -6,7 +6,7 @@
 
 **Desarrollador Full Stack · SDD · DDD · POO · Ingeniería asistida por agentes LLM**
 
-Construyo ERPs, aplicaciones web e integraciones con IA en producción.
+Construyo ERPs, plataformas SaaS e integraciones con IA en producción.
 Trabajo con **SDD · DDD · POO** y desarrollo **únicamente con asistencia de
 agentes LLM** por eficiencia y tiempo: especificación primero, dominio en el
 centro y pruebas que verifican.
@@ -56,7 +56,7 @@ código sea mantenible:
 | Proyecto | Qué es | Mi rol | Stack |
 | :--- | :--- | :--- | :--- |
 | **FHG Distribuidora — ERP** | Gestión para distribuidora mayorista: ventas a cuotas, cartera, cobros, cuadres de caja, inventario ABC, comisiones y reportería. 440+ commits. | Diseño y desarrollo completo | React, Supabase, PL/pgSQL, Playwright |
-| **[Sandov Structure](https://structure.sandov.ai)** | Plataforma web de cálculo estructural: motor FEM 3D, verificación ACI 318 / AISC 360, sísmico dinámico, BIM/IFC, asesor IA y reportes PDF trazables. | Diseño y desarrollo completo | React, Convex, Cloudflare Workers, LLM |
+| **[Sandov Structure](https://structure.sandov.ai)** | SaaS de cálculo estructural: motor FEM 3D, verificación ACI 318 / AISC 360, sísmico dinámico, BIM/IFC, asesor IA y reportes PDF trazables. | Diseño y desarrollo completo | React, Convex, Cloudflare Workers, LLM |
 | **[EstimaPro / Estimator AI](https://estimapro-rd.pages.dev)** | Conecta el presupuesto del ingeniero con ferreterías: escáner de planos con IA, cuantificación y cotización. | Diseño y desarrollo completo | React, Convex, Cloudflare Pages, visión IA |
 | **[CookSnap](https://cooksnap-4kh.pages.dev)** | App de cocina con IA: recetas a partir de ingredientes, auth, i18n, mobile-first. | Diseño y desarrollo completo | React, Convex, Cloudflare Pages, LLM |
 | **[Colegio Ciudad Real](https://cocire.edu.do)** | Sitio institucional de admisiones + ERP escolar interno. | Diseño y desarrollo completo | React, Supabase, Cloudflare |
