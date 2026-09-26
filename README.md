@@ -58,7 +58,7 @@ Portafolio completo con capturas y demos: **[kitomc.github.io](https://kitomc.gi
 
 | Proyecto | Qué es | Mi rol | Stack |
 | :--- | :--- | :--- | :--- |
-| **FHG Distribuidora — ERP** | Gestión para distribuidora mayorista: ventas a cuotas, cartera, cobros, cuadres de caja, inventario ABC, comisiones y reportería. 440+ commits. | Diseño y desarrollo completo | React, Supabase, PL/pgSQL, Playwright |
+| **[FHG Distribuidora](https://fhgdistribuidora.net)** | Tienda en línea de electrodomésticos con financiamiento y el ERP que la opera: ventas a cuotas, cartera, cobros, cuadres de caja, inventario ABC, comisiones y reportería. 440+ commits. | Diseño y desarrollo completo | React, Supabase, PL/pgSQL, Playwright |
 | **[Sandov Structure](https://structure.sandov.ai)** | SaaS de cálculo estructural: motor FEM 3D, verificación ACI 318 / AISC 360, sísmico dinámico, BIM/IFC, asesor IA y reportes PDF trazables. | Diseño y desarrollo completo | React, Convex, Cloudflare Workers, LLM |
 | **[EstimaPro / Estimator AI](https://estimapro-rd.pages.dev)** | Conecta el presupuesto del ingeniero con ferreterías: escáner de planos con IA, cuantificación y cotización. | Diseño y desarrollo completo | React, Convex, Cloudflare Pages, visión IA |
 | **[CookSnap](https://cooksnap-4kh.pages.dev)** | App de cocina con IA: recetas a partir de ingredientes, auth, i18n, mobile-first. | Diseño y desarrollo completo | React, Convex, Cloudflare Pages, LLM |
