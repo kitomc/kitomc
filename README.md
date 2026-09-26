@@ -64,7 +64,7 @@ Portafolio completo con capturas y demos: **[kitomc.github.io](https://kitomc.gi
 | **[CookSnap](https://cooksnap-4kh.pages.dev)** | App de cocina con IA: recetas a partir de ingredientes, auth, i18n, mobile-first. | Diseño y desarrollo completo | React, Convex, Cloudflare Pages, LLM |
 | **[Colegio Ciudad Real](https://cocire.edu.do)** | Sitio institucional de admisiones + ERP escolar interno. | Diseño y desarrollo completo | React, Supabase, Cloudflare |
 | **Spatium** | Sitio corporativo de oficinas/coworking y ERP de operación interna (Boosty Digital / Spatium). | Integrador sénior y desarrollo | React, Node.js, PostgreSQL, automatización |
-| **[Planix](https://planixapp.com.do)** | Portal transaccional de compras empresariales en RD con integraciones a Oracle NetSuite, SAP, Odoo, Exactus e Infor. | Desarrollo y mantenimiento como parte del equipo | Angular, Node.js, integraciones ERP |
+| **[Planix](https://planixapp.com.do)** | Portal transaccional de compras empresariales en RD: procesos de compra, licitaciones y cotizaciones. | Desarrollo y mantenimiento como parte del equipo | Angular, Node.js, REST APIs |
 
 <br>
 
