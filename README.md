@@ -16,7 +16,7 @@ centro y pruebas que verifican.
 [![Ubicación](https://img.shields.io/badge/Rep%C3%BAblica_Dominicana-1F2937?style=flat-square&logo=googlemaps&logoColor=white)](#)
 [![Correo](https://img.shields.io/badge/kitomc.rd@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kitomc.rd@gmail.com)
 [![GitHub](https://img.shields.io/badge/@kitomc-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kitomc)
-[![Portafolio](https://img.shields.io/badge/Portafolio-2F7BFF?style=flat-square&logo=cloudflarepages&logoColor=white)](https://francis-gonzalez.pages.dev)
+[![Portafolio](https://img.shields.io/badge/Portafolio-2F7BFF?style=flat-square&logo=githubpages&logoColor=white)](https://kitomc.github.io)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
@@ -54,7 +54,7 @@ código sea mantenible:
 
 ## Proyectos
 
-Portafolio completo con capturas y demos: **[francis-gonzalez.pages.dev](https://francis-gonzalez.pages.dev)**.
+Portafolio completo con capturas y demos: **[kitomc.github.io](https://kitomc.github.io)** (código en [kitomc/kitomc.github.io](https://github.com/kitomc/kitomc.github.io)). CV en PDF: [español](https://kitomc.github.io/cv-francis-gonzalez.pdf) · [English](https://kitomc.github.io/Francis-Gonzalez-Full-Stack-Developer.pdf).
 
 | Proyecto | Qué es | Mi rol | Stack |
 | :--- | :--- | :--- | :--- |
@@ -99,6 +99,12 @@ técnicas en una entrevista.
 <br>
 
 ## Código público
+
+### [kitomc.github.io](https://github.com/kitomc/kitomc.github.io) — Portafolio
+
+`React` · `TypeScript` · `Vite` · `Tailwind` · `Playwright`
+
+Sitio estático con suite E2E (24 pruebas, escritorio y móvil) y despliegue automático a GitHub Pages.
 
 ### [colmado-saas](https://github.com/kitomc/colmado-saas) — Plataforma SaaS multiinquilino
 
